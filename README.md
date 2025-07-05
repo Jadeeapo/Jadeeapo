@@ -1,7 +1,7 @@
 <img src="0_etwQAHp-utXS7o91.webp" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Saurav Farswan, an Indian Developer 👋🏼:
-🛜 currently working on [MLSA](#)<br>👨🏼‍🎓 Student of computer applications <br>👨🏼‍💻 since 2022 <br>🎬 just started out with my youtube channel <i> yo yo channel tech</i>
+🛜 currently working as [MLSA](#)<br>👨🏼‍🎓 Student of computer science<br>👨🏼‍💻 since 2022 <br>🎬 shuuu<i> yo yo channel tech</i>
 
 
 # 💻 Tech Stack:
